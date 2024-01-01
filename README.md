@@ -1,3 +1,6 @@
 # recipe-finder
 
-![cooking favicons](https://github.com/ambresh20/recipe-finder/assets/90375507/c4c22519-4ea6-431f-b06f-ffcc7def630f)
+<img width="474" alt="Screenshot page" src="https://github.com/ambresh20/recipe-finder/assets/90375507/1ea3c84f-8376-4b35-aec0-8defe8761ca5">
+
+
+
